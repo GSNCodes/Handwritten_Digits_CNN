@@ -16,4 +16,8 @@ and hence it saves us a lot of time.
 The accuracy achieved by my model architecture is around 97%.
 Feel free to use a model of your choice to increase the accuracy as much as possible.
 
+## Update
+The file Hand_Written_Digits_CNN_Updated.pynb contains my latest implementation.
+In this, my model has achieved an **Accuracy of ~99.4% with less than 8000 parameters.**
+
 #### Keep chasing your dreams ! ⭐️
